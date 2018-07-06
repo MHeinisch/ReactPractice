@@ -1,0 +1,7 @@
+/* .test {
+    display: inline;
+} */
+
+.inline > * {
+    display: inline;
+}
